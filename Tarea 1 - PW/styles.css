@@ -1,0 +1,26 @@
+/* Estilo Actividad 1*/
+body{
+    background-color: #fffbf7;
+    text-align: center;
+}
+h1{
+    color: #8b8b8bcc;
+    font: bold;
+}
+.caja1{
+    position: relative;
+    background-color: transparent;
+  
+}
+.subtitulo{
+    color: #46484c;
+}
+#logo{
+    width: 45%;
+}
+#subemail{
+    font-size: xx-small;
+}
+#enviar{
+    background-color: #fff;
+}
