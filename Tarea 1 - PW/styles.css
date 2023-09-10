@@ -1,26 +1,46 @@
-/* Estilos T1*/
+/* ESTILOS Hoja 1 index.html */
 body{
     background-color: #fffbf7;
     text-align: center;
 }
 h1{
     color: #8b8b8bcc;
-    font: bold;
+    font-family: verdana;
 }
-.caja1{
-    position: relative;
-    background-color: transparent;
-  
+
+p{
+    font-family: montserrat;
 }
+
+/*Subtitulo - Texto por debajo del titulo*/
 .subtitulo{
     color: #46484c;
 }
-#logo{
-    width: 45%;
+
+/*Propiedades de imagen*/
+#banner{
+    width: 50%;
 }
-#subemail{
-    font-size: xx-small;
+
+#email{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 3px;
+    width: 260px;
+    height: 30px;
 }
+
+/*Boton de envio*/
 #enviar{
-    background-color: #fff;
+    color: #fff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    background-color: #025157;
+    width: 60px;
+    height: 35px;
+}
+
+.texto{
+    font-size: small;
 }
